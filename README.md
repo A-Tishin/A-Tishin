@@ -1,7 +1,7 @@
 ### Hello 👋, My name is Aleksandrs Tišins.
 -----
 ⚡ Actively sharpening my .NET/C# Software Developer skills.<br />
-🌱 Currently working on Codelex projects.<br />
+🌱 Currently working on [Codelex](https://github.com/A-Tishin/Flight-Planner) project.<br />
 ❤️ Reading, coffee & λ expression.<br />
 📌 [LinkedIn](https://www.linkedin.com/in/aleksandrstisins/)
 
